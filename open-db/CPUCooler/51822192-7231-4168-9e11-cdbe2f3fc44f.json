@@ -1,0 +1,23 @@
+{
+  "id": "51822192-7231-4168-9e11-cdbe2f3fc44f",
+  "brand": "Bykski",
+  "name": "B-FRB480",
+  "type": "CPU_COOLER",
+  "cooler_type": "Liquid",
+  "radiator_size": 480,
+  "fan_rpm": "3000 RPM",
+  "noise_level": "Max Airflow 105.5 CFM",
+  "color": "Black",
+  "height": 27,
+  "sockets": [
+    "AM4",
+    "AM5",
+    "LGA1150",
+    "LGA1151",
+    "LGA1155",
+    "LGA1156",
+    "LGA1700",
+    "LGA1800"
+  ],
+  "is_rgb": true
+}
